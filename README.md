@@ -534,11 +534,16 @@ Terminate FTP session at any time via `CTRL + D`.
 ### Kernel Types
 
 // monolithic kernel	(faster than other kernels)    linux
+    
 //microkernel
+    
 //exokernel
+    
 //nano kernel
+    
 //hybrid kernel			(mix between mono and micro kernel)   linux
 
 
 //NT kernel		: windows
+    
 //XNU kernel Apple os / devices
